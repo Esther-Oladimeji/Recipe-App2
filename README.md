@@ -1,2 +1,2 @@
-# Recipe-App2
+# Recipe-App
 Created with CodeSandbox
